@@ -1,4 +1,4 @@
-Hello, my name is William and I am a software developer based in Taiwan. I have experience working with Excel VBA and Unity, and I am new with iOS developing.
+Hello, I'm William and I am a software developer based in Taiwan. I have experience working with Excel VBA and Unity, and I am new with iOS developing.
 
 My goal on GitHub is to contribute to open-source projects and collaborate with other developers. I am particularly interested in iOS developing right now and I am still learning the basics. 
 
